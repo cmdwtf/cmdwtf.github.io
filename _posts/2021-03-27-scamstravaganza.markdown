@@ -2,7 +2,7 @@
 layout: post
 title:  "Howto: Scam eBay and Get Free PC Parts!"
 excerpt: A warning about a particularly clever scheme, and how to not get ripped off selling your used parts on auction websites.
-date:   2021-03-26 20:30:00 -0400
+date:   2021-03-27 00:30:00 -0400
 categories: ebay
 ---
 

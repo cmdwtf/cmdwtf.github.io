@@ -19,32 +19,38 @@
 # in the templates via {{ site.myvariable }}.
 
 title: cmd, wtf? Blog!
-author: Chris Marc Dailey
+author:
+  name: Chris Marc Dailey
 # email: your-email@example.com
+
 description: >-
-  Hey! This is just a quick and dirty microblog. Check the about
-  page if you want to learn more about me, or take a hop to and
-  check out my [personal website](https://cmd.wtf)!
+  Hey! This is just a quick and dirty microblog. If you're interested
+  in learning more about me, or fancy getting in touch, hit one of the
+  icons below!
 
 baseurl: ""
 url: "https://blog.cmd.wtf"
 
-webzone:
-  url: https://cmd.wtf
-  title: cmd, wtf? Home
+  
+minima:
+  social_links:
+    twitter: _nitz
+    github: nitz
+    linkedin: chris-dailey
+    keybase: cmd
+    webzone:
+      url: https://cmd.wtf
+      title: cmd, wtf? Home
 
-twitter_username: _nitz
-github_username:  nitz
-linkedin_username: chris-dailey
-keybase_username: cmd
-rss: Feed
+show_excerpts: true
+
+google_analytics: UA-154430712-6
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima@3cdd14dff1216f561c68329e0b7420c2dc9b796a
 plugins:
   - jekyll-feed
- 
-show_excerpts: true
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

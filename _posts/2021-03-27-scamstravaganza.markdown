@@ -26,7 +26,7 @@ I'm in the US, so the details here will be presented from my point of view. Some
 
 ### High Level
 
-On the top: It's a simple reversed-payment scheme. The artist will purchase a product from you, pay, and ask for a cheap shipping option. Months later, the artist will open an "item not received case", and it will be closed in their favor. You'll be left holding the bag, confused as to how this happened and out both your part and your cash. You'll find it seemingly to challenge the case, because your support tickets keep getting routed to Germany, despite neither you nor your buyer being German. The scam banks on the effective firewalls it constructs to throw a wrench into your plans at every corner as you attempt to find the fix. You'll curse existence, and swear off eBay as a whole, before sadly realizing they're the only game that matters when it comes to online auctioning. Hopefully you'll be resolute enough to keep fighting.
+On the top: It's a simple reversed-payment scheme. The artist will purchase a product from you, pay, and ask for a cheap shipping option. Months later, the artist will open an "item not received case", and it will be closed in their favor. You'll be left holding the bag, confused as to how this happened and out both your part and your cash. You'll find it seemingly impossible to challenge the case, because your support tickets keep getting routed to Germany, despite neither you nor your buyer being German. The scam banks on the effective firewalls it constructs to throw a wrench into your plans at every corner as you attempt to find the fix. You'll curse existence, and swear off eBay as a whole, before sadly realizing they're the only game that matters when it comes to online auctioning. Hopefully you'll be resolute enough to keep fighting.
 
 ### What To Look Out For
 
@@ -104,7 +104,7 @@ I tend to be a bit of a nervous person, so I almost always physically hand my pa
 
 I typically track packages of a fair number of the high-value items I've sold on eBay, just because I tend to worry. I also usually send messages to buyers if I notice shipments stuck in transit. Stuck in transit has been happening a lot with COVID-19, and the end of year holidays weren't helping. It only took a day or two, but my package [made it to Miami](https://i.imgur.com/CRTqBPz.png), one of the largest distribution hubs near me. After that though, I saw no updates. Christmas passed, then New Years. I was starting to worry, until January 10th.
 
-Finally, [it had moved](https://i.imgur.com/b1GdDam.png) to Jamaica, New York. I'm familiar with Jamaica — A good number of packages I receive from overseas, particularly those from Shenzhen, Honk Kong, and other Asian localities typically come through there. I breathed a sigh of relief, as I felt like I'd done it. My package made it to an international hub. Should be smooth sailing from here.
+Finally, [it had moved](https://i.imgur.com/b1GdDam.png) to Jamaica, New York. I'm familiar with Jamaica — A good number of packages I receive from overseas, particularly those from Shenzhen, Hong Kong, and other Asian localities typically come through there. I breathed a sigh of relief, as I felt like I'd done it. My package made it to an international hub. Should be smooth sailing from here.
 
 ### The Shock
 
